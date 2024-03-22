@@ -1,4 +1,7 @@
-# 📝 Streamlit Quill
+# 📝 Streamlit CKEditor
+
+TODO
+- Reconfigure package for CKEditor: https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/predefined-builds.html#installation-example
 
 [![GitHub][github_badge]][github_link] [![PyPI][pypi_badge]][pypi_link] 
 
